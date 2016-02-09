@@ -21,5 +21,5 @@ User can tap the area for "Having trouble signing in?"
 User can log out from the Settings screen.
 
 
-![](http://i.imgur.com/nesFrWW.gifv)
+![](http://i.imgur.com/nesFrWW.gif)
 
